@@ -1,0 +1,3 @@
+= Heroku Hello world
+HerokuでSinatraを使ってHello worldするだけの練習用
+
