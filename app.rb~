@@ -3,6 +3,6 @@ require 'rubygems'
 require 'sinatra'
 
 get '/' do
-  'HerokuでSinatraを使ってHello world!'
+  'Hello world! using Sinatra on Heroku'
 end
 
